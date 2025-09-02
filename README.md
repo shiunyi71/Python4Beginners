@@ -3,9 +3,22 @@
 
 課程設計者：張傑帆（國立臺灣大學資訊工程學系助理教授）
 
-直播連結：[https://www.youtube.com/@shiunyi71/streams](https://www.youtube.com/@shiunyi71/streams)
+直播連結：[https://www.youtube.com/@shiunyi71/streams](https://www.youtube.com/@shiunyi71/streams) (打開後找最新的直播開始)
 
 錄影播放清單：https://youtube.com/playlist?list=PLBkfOXPAnKmhr5VjDqHVRw9TUde60AKTx
+
+## 📌 直播時間安排
+
+### 🕙 第一階段 (10:10 開始)
+- **直播教學時間**：10:10 - 10:40 (預計 20~30 分鐘)
+- **自由練習時間**：10:40 - 11:00
+- **問題討論**：有疑問可至 [Issues](https://github.com/shiunyi71/Python4Beginners/issues) 留言提問喔！
+
+### 🕐下課休息10分鐘
+
+### 🕐 第二階段 (11:10 開始)
+- **直播進行討論時間**：11:10 - 11:30 (預計 20 分鐘)
+- **自由練習與作業時間**：11:30 - 12:00
 
 
 ## 📌 誰適合參加這場程式冒險之旅
@@ -27,7 +40,7 @@
 
 | 週次 | 主題與內容綱要 | 作業 |
 |------|-------------|------|
-| Week 01 | **課程介紹**<br>說明課程目標、課程實作環境操作、評量評分標準 | |
+| [Week 01](https://github.com/shiunyi71/Python4Beginners/issues/1) | [**課程介紹**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP00_Introduction/)<br>說明課程目標、課程實作環境操作、評量評分標準 | |
 | Week 02 | **認識Python世界 - 開啟Python神奇寶盒！與電腦成為好朋友**<br>• Python簡介與環境設置<br>• 第一個Python程式：Hello World<br>• 基本輸入與輸出 (input/print)<br>• 用print變出炫酷圖案<br>• Time套件：基本時間顯示 | 實作練習1<br>HW1 |
 | Week 03 | **資料型態與變數 - 掌握變數的藝術！製作超實用的溫度轉換器**<br>• 認識Python基本資料型態<br>• 變數的命名規則與使用方法<br>• 數學運算符號實戰<br>• 字串的基本操作<br>• 實作溫度轉換計算器 | 實作練習2<br>HW2 |
 | Week 04 | **流程控制(上) - 程式的決策之道！打造智慧選擇器**<br>• if-else條件判斷的基礎<br>• 比較運算符號應用<br>• 多重條件判斷(elif)<br>• 結合input製作互動式選單<br>• 加入random模組增添趣味性 | 實作練習3 |
