@@ -40,7 +40,7 @@
 | 週次 | 主題與內容綱要 | 作業 |
 |------|-------------|------|
 | [Week 01](https://github.com/shiunyi71/Python4Beginners/issues/1) | [**課程介紹**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP01_Introduction/) <br>說明課程目標、課程實作環境操作、評量評分標準 | [操作練習](https://colab.research.google.com/drive/1jluGdKBRYQo2A0m7UemyXDbJGXn0ZkYI?usp=sharing)|
-| Week 02 | [**認識Python世界 - 開啟Python神奇寶盒！與電腦成為好朋友**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP02_Hello_Python/)<br>• Python簡介與環境設置<br>• 第一個Python程式：Hello World<br>• 基本輸入與輸出 (input/print)<br>• 用print變出炫酷圖案<br>• Time套件：基本時間顯示 | [操作練習](https://drive.google.com/file/d/1HTfJiX0ACKaEA41ZRIfzfVsi9eAUb_Sh/view?usp=sharing)<br>[HW1](https://docs.google.com/forms/d/e/1FAIpQLSdFdbCNM3Dd9H4QDIHl06W6i7XRcbwil7tcI3wkc6gCnAtYng/viewform)<br>[課前問卷](https://forms.gle/d75CXTtEo3xnqbAh6) |
+| Week 02 | [**認識Python世界 - 開啟Python神奇寶盒！與電腦成為好朋友**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP02_Hello_Python/)<br>• Python簡介與環境設置<br>• 第一個Python程式：Hello World<br>• 基本輸入與輸出 (input/print)<br>• 用print變出炫酷圖案<br>• Time套件：基本時間顯示 | [操作練習](https://drive.google.com/file/d/1HTfJiX0ACKaEA41ZRIfzfVsi9eAUb_Sh/view?usp=sharing)<br>[HW1](https://docs.google.com/forms/d/e/1FAIpQLSdFdbCNM3Dd9H4QDIHl06W6i7XRcbwil7tcI3wkc6gCnAtYng/viewform)<br>[課前調查](https://forms.gle/d75CXTtEo3xnqbAh6) |
 | Week 03 | **資料型態與變數 - 掌握變數的藝術！製作超實用的溫度轉換器**<br>• 認識Python基本資料型態<br>• 變數的命名規則與使用方法<br>• 數學運算符號實戰<br>• 字串的基本操作<br>• 實作溫度轉換計算器 | [操作練習]()<br>HW2 |
 | Week 04 | **流程控制(上) - 程式的決策之道！打造智慧選擇器**<br>• if-else條件判斷的基礎<br>• 比較運算符號應用<br>• 多重條件判斷(elif)<br>• 結合input製作互動式選單<br>• 加入random模組增添趣味性 | [操作練習]() |
 | Week 05 | **課程檢視、回顧與統整**<br>前四週課程內容複習與問題解答 | |
