@@ -1,0 +1,7 @@
+print("     /\\_/\\  ")
+print("    ( o.o ) ")
+print("     > ^ <  ")
+print("    _______")
+print("   |       |")
+print("   | MEOW! |")
+print("   |_______|")
