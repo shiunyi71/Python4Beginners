@@ -56,7 +56,7 @@
 | [Week 15](https://github.com/shiunyi71/Python4Beginners/issues/27) | [**課程檢視、回顧與統整**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP15_Review/)<br>第11-14週課程內容複習與問題解答 | [操作練習](https://drive.google.com/file/d/1X0VWGEksACF-zCzg0xlXG4pazJAGndFc/view?usp=sharing) |
 | [Week 16](https://github.com/shiunyi71/Python4Beginners/issues/28) | [**作業回顧與解題**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP16_Review_HW/)<br>作業檢討與優良作品分享<br>分析常見問題並示範最佳實作技巧 | [操作練習](https://drive.google.com/file/d/1Vb12AhNYb0syneM9gKpB7zaofHG_XET5/view?usp=sharing) |
 | [Week 17](https://github.com/shiunyi71/Python4Beginners/issues/29) | [**小專案實作**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP17_Project/)<br>整合程式成為專案<br>運用所學知識完成個人專案 | [期末專案繳交](final.md)<br>上傳期限1/13 |
-| Week 18 | **期末總結**<br>課程總整回顧<br>共通問題評析與回饋<br>學習成果展示 | |
+| Week 18 | **期末總結**<br>課程總整回顧<br>共通問題評析與回饋<br>學習成果展示 | [**期末問卷**](https://forms.gle/d3KhJE1n1nM55TNH9) |
 
 ## 課程學習目標：
 
