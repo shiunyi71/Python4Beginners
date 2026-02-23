@@ -1,0 +1,25 @@
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  check-author:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close issue if not org member
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: membership } = await github.rest.orgs.getMembershipForUser({
+              org: 'YOUR_ORG',
+              username: context.payload.issue.user.login
+            }).catch(() => null);
+
+            if (!membership) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                state: 'closed'
+              });
+            }
