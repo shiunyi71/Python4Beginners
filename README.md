@@ -54,8 +54,8 @@
 | [Week 13](https://github.com/shiunyi71/Python4Beginners/issues/25) | [**檔案處理(下) - 資料分析小達人！建立成績管理系統**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP13_File_02/)<br>• CSV檔案格式介紹<br>• Pandas基礎操作<br>• 資料分析入門技巧<br>• 讀取CSV成績資料<br>• 計算平均與排名，繪製統計圖表 | [操作練習](https://colab.research.google.com/drive/1k2hOT9VE6GC-R0qHLGUF5KHOGLnIsJH2?usp=sharing)<br>[HW10](https://forms.gle/fuYoxECcPPaN3CSN7) |
 | [Week 14](https://github.com/shiunyi71/Python4Beginners/issues/26) | [**基礎物件入門 - 打造程式生物圖鑑！創建寶可夢世界**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP14_Class/)<br>• 物件導向程式設計基礎概念<br>• 類別的定義與建立<br>• 物件的屬性與方法<br>• 設計寶可夢基礎類別<br>• 實作對戰功能與圖鑑收集系統 | [操作練習](https://colab.research.google.com/drive/1OKat77WRDODfqHlEuPOamzH4CCcKZ30o?usp=sharing)<br>[HW11](https://forms.gle/2zikHt9jPLi9kJUWA) |
 | [Week 15](https://github.com/shiunyi71/Python4Beginners/issues/27) | [**課程檢視、回顧與統整**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP15_Review/)<br>第11-14週課程內容複習與問題解答 | [操作練習](https://colab.research.google.com/drive/1X0VWGEksACF-zCzg0xlXG4pazJAGndFc?usp=sharing) |
-| [Week 16](https://github.com/shiunyi71/Python4Beginners/issues/28) | [**作業回顧與解題**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP16_Review_HW/)<br>作業檢討與優良作品分享<br>分析常見問題並示範最佳實作技巧 | [操作練習](https://colab.research.google.com/drive/1Vb12AhNYb0syneM9gKpB7zaofHG_XET5?usp=sharing) |
-| [Week 17](https://github.com/shiunyi71/Python4Beginners/issues/29) | [**小專案實作**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP17_Project/)<br>整合程式成為專案<br>運用所學知識完成個人專案 | <!--[期末專案繳交](final.md)<br>上傳期限1/13--> |
+| [Week 16](https://github.com/shiunyi71/Python4Beginners/issues/29) | [**小專案實作**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP17_Project/)<br>整合程式成為專案<br>運用所學知識完成個人專案 | [期末專案繳交](final.md)<br>上傳期限6/15 |
+| [Week 17](https://github.com/shiunyi71/Python4Beginners/issues/28) | [**作業回顧與期末報告*](https://homepage.ntu.edu.tw/~jfanc/Marp/HP16_Review_HW/)<br>作業檢討與優良作品分享<br>各班各自進行進行期末報告！ | [操作練習](https://colab.research.google.com/drive/1Vb12AhNYb0syneM9gKpB7zaofHG_XET5?usp=sharing) |
 | Week 18 | **期末總結**<br>課程總整回顧<br>共通問題評析與回饋<br>學習成果展示 | <!--[**期末問卷**](https://forms.gle/d3KhJE1n1nM55TNH9) --> |
 
 ## 課程學習目標：
