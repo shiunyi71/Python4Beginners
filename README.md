@@ -55,8 +55,8 @@
 | [Week 14](https://github.com/shiunyi71/Python4Beginners/issues/26) | [**基礎物件入門 - 打造程式生物圖鑑！創建寶可夢世界**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP14_Class/)<br>• 物件導向程式設計基礎概念<br>• 類別的定義與建立<br>• 物件的屬性與方法<br>• 設計寶可夢基礎類別<br>• 實作對戰功能與圖鑑收集系統 | [操作練習](https://colab.research.google.com/drive/1OKat77WRDODfqHlEuPOamzH4CCcKZ30o?usp=sharing)<br>[HW11](https://forms.gle/2zikHt9jPLi9kJUWA) |
 | [Week 15](https://github.com/shiunyi71/Python4Beginners/issues/27) | [**課程檢視、回顧與統整**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP15_Review/)<br>第11-14週課程內容複習與問題解答 | [操作練習](https://colab.research.google.com/drive/1X0VWGEksACF-zCzg0xlXG4pazJAGndFc?usp=sharing) |
 | [Week 16](https://github.com/shiunyi71/Python4Beginners/issues/29) | [**小專案實作**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP17_Project/)<br>整合程式成為專案<br>運用所學知識完成個人專案 | [期末專案繳交](final.md)<br>上傳期限6/15 |
-| [Week 17](https://github.com/shiunyi71/Python4Beginners/issues/28) | [**期末報告**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP16_Review_HW/)<br>各班各自進行進行期末報告！ | [**期末問卷**](https://forms.gle/bomnQ3y7AVAav66t8)<br>[操作練習](https://colab.research.google.com/drive/1Vb12AhNYb0syneM9gKpB7zaofHG_XET5?usp=sharing) |
-| Week 18 | **期末總結**<br>課程總整回顧<br>共通問題評析與回饋<br>學習成果展示 |  |
+| [Week 17](https://github.com/shiunyi71/Python4Beginners/issues/28) | **期末報告**<br>各班各自進行進行期末報告！ | [**期末問卷**](https://forms.gle/bomnQ3y7AVAav66t8) |
+| Week 18 | [**期末總結**](https://homepage.ntu.edu.tw/~jfanc/Marp/HP16_Review_HW/)<br>課程總整回顧<br>共通問題評析與回饋<br>學習成果展示 | [操作練習](https://colab.research.google.com/drive/1Vb12AhNYb0syneM9gKpB7zaofHG_XET5?usp=sharing) |
 
 ## 課程學習目標：
 
